@@ -1,4 +1,4 @@
-@import url(../blocks/vendor/normalize.css);
+@import url(../vendor/normalize.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/feynman/__img/feynman__img.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
